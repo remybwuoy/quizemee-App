@@ -265,7 +265,7 @@ const qBank = [
     answers: [
       "Greenwich Mean Time",
       "Global Meridian Time",
-      "General Median Time",
+      "Ghana Man Time",
       "Glasgow Man Time"
     ],
     correct: "Greenwich Mean Time",
