@@ -302,7 +302,7 @@ const qBank = [
       "Kentucky Fried Chicken",
       "Kentucky Fresh Cheese",
       "Kibbled Freaky Cow",
-      "Kiwi Food Cut"
+      "Krusty Food Crabs"
     ],
     correct: "Kentucky Fried Chicken",
     questionId: "3791672"
