@@ -4,7 +4,7 @@ const qBank = [
     answers: [
       "Thomas & Martha",
       "Joey & Jackie",
-      "Jason & Sarah",
+      "Jason & Mary",
       "Todd & Mira"
     ],
     correct: "Thomas & Martha",
