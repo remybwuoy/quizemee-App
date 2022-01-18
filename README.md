@@ -1,3 +1,6 @@
+#Project brief
+This is a Quiz App which has a bunch of questions with various answers to choose from and the your final mark is given after the last question is answered.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
