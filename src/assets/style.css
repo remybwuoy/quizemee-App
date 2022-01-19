@@ -120,7 +120,7 @@ h2{
   padding: 10px;
   background: rgba( 255, 255, 255, 0.25 );
   box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 6px );
+  backdrop-filter: blur( 6px );
 }
 
 .score {
@@ -128,10 +128,10 @@ backdrop-filter: blur( 6px );
   font-size: 3em;
   top: 60px;
   font-weight: bolder;
-text-align: center;
+  text-align: center;
   background: rgba(255, 255, 255, 0.061);
-color: rgb(0, 0, 0);
-border-radius: 6px;
+  color: rgb(0, 0, 0);
+  border-radius: 6px;
 
 }
 
