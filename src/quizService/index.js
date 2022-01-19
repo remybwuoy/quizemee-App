@@ -48,9 +48,9 @@ const qBank = [
   },
   {
     question:
-      "Which company did Valve cooperate with in the creation of the Vive?",
-    answers: ["HTC", "Oculus", "Google", "Razer"],
-    correct: "HTC",
+      "What is the colour of the star on the Ghana Flag?",
+    answers: ["Red", "Gold", "Black", "white"],
+    correct: "Black",
     questionId: "267908"
   },
 
